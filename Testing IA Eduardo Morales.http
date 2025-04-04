@@ -1,0 +1,6 @@
+@Testing_IA_Eduardo_Morales_HostAddress = http://localhost:5042
+
+GET {{Testing_IA_Eduardo_Morales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
